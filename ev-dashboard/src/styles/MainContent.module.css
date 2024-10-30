@@ -1,0 +1,32 @@
+.evImage{
+    padding: 20px;
+    margin: 100px;
+    
+  }
+  .mainContent{
+    display: flex;
+  }
+  .information{
+    border: 1px solid gray;
+    border-radius: 20px;
+    padding:50px 30px 30px 30px;
+    margin-top: 200px;
+    height: 300px;
+    text-align: justify;
+    display: inline;
+  }
+  .data{
+    padding: 20px;
+    display: flex;
+  }
+  .button{
+    height: 40px;
+    border : 1px solid gray;
+    color: white;
+    background-color: green;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: -10px;
+    padding: 10px;
+    cursor: pointer;
+  }

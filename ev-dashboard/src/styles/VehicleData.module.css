@@ -1,0 +1,25 @@
+.header{
+    margin-top: 20px;
+    text-align: center;
+}
+.noteText{
+    font-style: italic;
+    margin-left: 180px;
+}
+.buttonContainer{
+    display: flex;
+    margin-left: 180px;
+    margin-right: 160px;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+.button{
+    height: 40px;
+    width: 120px;
+    border : 1px solid gray;
+    color: white;
+    background-color: green;
+    border-radius: 10px;
+    padding: 10px;
+    cursor: pointer;
+  }
